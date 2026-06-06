@@ -1,0 +1,6 @@
+{
+  "name": "Nirvana Student Wellness Cockpit",
+  "description": "An interactive wellness companion and cognitive agility assessment dashboard for students to audit screen strain, review emotional focus, and test attention retention.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
